@@ -2,4 +2,3 @@ one
 two and three
 four
 five
-six
